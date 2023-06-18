@@ -154,7 +154,7 @@ iframe{
 
 #intro-vid iframe{
     width: 100%;
-    min-height: 400px;
+    min-height: 300px;
 }
 
 #features{
@@ -234,6 +234,7 @@ iframe{
     }
 
     #logo{
+        width: 40vh;
         top: 10vh;
     }
 
