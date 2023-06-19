@@ -190,6 +190,7 @@ iframe{
 .member-icon img{
     border-radius: 50%;
     width: 70%;
+    max-width: 200px;
 }
 
 .team-member{
@@ -202,6 +203,14 @@ iframe{
     color: #3AA199;
     -webkit-filter: drop-shadow(0px 0px 2px #3AA199);
     filter: drop-shadow(0px 0px 2px #3AA199);
+}
+
+.soclink{
+    padding:0.3em;
+}
+
+.soclink img{
+    height: 1.5em;
 }
 
 #footer{
